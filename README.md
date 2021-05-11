@@ -6,13 +6,13 @@ This repo is used to gather ideas and move forward stories that quite often will
 ## Current Blog Posts in the Queue
 These are some of the blog posts that have been suggested and are in need of champions to help move each story forward.
 
-* API Copyright with OAS ([Issue](https://github.com/OAI/Stories/issues/2)) ([Project](https://github.com/OAI/Stories/projects/1)) (Workflow Status: Stuctural / No)
-* Xero OpenAPI Journey ([Issue](https://github.com/OAI/Stories/issues/3)) ([Project](https://github.com/OAI/Stories/projects/2)) (Workflow Status: Stories / Draft)
-* Github OpenAPI Journey (Issue) ([Project](https://github.com/OAI/Stories/projects/3)) (Workflow Status: Stories / Draft)
-* OpenAPI Format Tool ([Issue](https://github.com/OAI/Stories/issues/5)) (Workflow Status: Stories / Notes)
-* OpenAPI Diff Tool ([Issue](https://github.com/OAI/Stories/issues/6)) (Workflow Status: Stories / Notes)
-* Overlays ([Issue](https://github.com/OAI/Stories/issues/7)) (Workflow Status: Ideas / Topics)
-* Extensions ([Issue](https://github.com/OAI/Stories/issues/8)) (Workflow Status: Ideas / Topics)
+* API Copyright with OAS ([Issue](https://github.com/OAI/Stories/issues/2)) ([Project](https://github.com/OAI/Stories/projects/1)) (Workflow Status: [Stuctural](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astructural) / No)
+* Xero OpenAPI Journey ([Issue](https://github.com/OAI/Stories/issues/3)) ([Project](https://github.com/OAI/Stories/projects/2)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Draft)
+* Github OpenAPI Journey (Issue) ([Project](https://github.com/OAI/Stories/projects/3)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Draft)
+* OpenAPI Format Tool ([Issue](https://github.com/OAI/Stories/issues/5)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Notes)
+* OpenAPI Diff Tool ([Issue](https://github.com/OAI/Stories/issues/6)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Notes)
+* Overlays ([Issue](https://github.com/OAI/Stories/issues/7)) (Workflow Status: [Ideas](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Aideas) / Topics)
+* Extensions ([Issue](https://github.com/OAI/Stories/issues/8)) (Workflow Status: [Ideas](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Aideas)  / Topics)
 
 Feel free to submit your idea for an OpenAPI story as a Github issue, or jump in on the project page for one already in motion.
 
