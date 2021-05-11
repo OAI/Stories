@@ -10,7 +10,7 @@ These are some of the blog posts that have been suggested and are in need of cha
 * **Xero OpenAPI Journey** ([Issue](https://github.com/OAI/Stories/issues/3)) ([Project](https://github.com/OAI/Stories/projects/2)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Draft)
 * **Github OpenAPI Journey** (Issue) ([Project](https://github.com/OAI/Stories/projects/3)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Draft)
 * **OpenAPI Format Tool** ([Issue](https://github.com/OAI/Stories/issues/5)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Notes)
-* **OpenAPI Diff Tool **([Issue](https://github.com/OAI/Stories/issues/6)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Notes)
+* **OpenAPI Diff Tool** ([Issue](https://github.com/OAI/Stories/issues/6)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Notes)
 * **Overlays** ([Issue](https://github.com/OAI/Stories/issues/7)) (Workflow Status: [Ideas](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Aideas) / Topics)
 * **Extensions** ([Issue](https://github.com/OAI/Stories/issues/8)) (Workflow Status: [Ideas](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Aideas)  / Topics)
 
