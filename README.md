@@ -21,41 +21,41 @@ We are developing a workflow for pushing stories to a finish state. Not all stor
 
 ### Ideas - The submission of a new idea for a story.
 
-* Topics - A topic to tell a story about.
-* People - Someone to tell the story.
-* Companies - Who a story involves.
+* **Topics** - A topic to tell a story about.
+* **People** - Someone to tell the story.
+* **Companies** - Who a story involves.
 
 ### Stories - Moving something from idea to story.
 
-* Interviews - Conduct interviews for story.
-* Notes - Compile and share notes for story.
-* Draft - Create a draft for a single story.
+* **Interviews** - Conduct interviews for story.
+* **Notes** - Compile and share notes for story.
+* **Draft** - Create a draft for a single story.
 
 ### Structural - The time for making big changes.
 
-* Yes / No - Do we even do this story?
-* Big Changes - Shifting the entire structure.
-* Cultivate - Do more research and flesh out.
-* Creative - Do we need any images?
+* **Yes / No** - Do we even do this story?
+* **Big Changes** - Shifting the entire structure.
+* **Cultivate** - Do more research and flesh out.
+* **Creative** - Do we need any images?
 
 ### Editing - The process of refining a story for publishing
 
-* Changes - No more big changes to a story.
-* Copy Edits - Introducing edits to the story from the editor.
-* Creative - Add images, quotes, links, etc.
+* **Changes** - No more big changes to a story.
+* **Copy Edits** - Introducing edits to the story from the editor.
+* **Creative** - Add images, quotes, links, etc.
 
 ### Go Live - Begin to move towards making live.
 
-* Internal Approval - Get internal approvals.
-* External Approval - Get other approvals.
-* Publish - Go live with a story on blog & social.
-* Social - Amplify using social media.
+* **Internal Approval** - Get internal approvals.
+* **External Approval** - Get other approvals.
+* **Publish** - Go live with a story on blog & social.
+* **Social** - Amplify using social media.
 
 ## Get Involved
 This is a community project within the OAI and we are looking for story idea submissions as well as folks in the following roles to help move stories forward:
 
-* Interviewers - People who can help interview providers, tooling makers, and other people putting OpenAPI to work.
-* Writers - People who can help actually take interviews or topics, do the research, and produce stories for publishing.
-* Editors - People who can help copy edit stories that are submitted ny authors and help us produce high quality stories.
+* **Interviewers** - People who can help interview providers, tooling makers, and other people putting OpenAPI to work.
+* **Writers** - People who can help actually take interviews or topics, do the research, and produce stories for publishing.
+* **Editors** **- People who can help copy edit stories that are submitted ny authors and help us produce high quality stories.
 
 Feel free to jump in on one of the projects above, or submit a Github issue if you have any comments, questions, or feedback about stories. If you'd like to be added as a contributor please submit an issue stating how you'd like to help out and we can add you as a contributor to the repository.
