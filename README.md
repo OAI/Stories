@@ -58,4 +58,4 @@ This is a community project within the OAI and we are looking for story idea sub
 * Writers - People who can help actually take interviews or topics, do the research, and produce stories for publishing.
 * Editors - People who can help copy edit stories that are submitted ny authors and help us produce high quality stories.
 
-Feel free to jump in on one of the projects above, or submit a Github issue if you have any comments, questions, or feedback about stories.
+Feel free to jump in on one of the projects above, or submit a Github issue if you have any comments, questions, or feedback about stories. If you'd like to be added as a contributor please submit an issue stating how you'd like to help out and we can add you as a contributor to the repository.
