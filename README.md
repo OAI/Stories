@@ -3,6 +3,8 @@ This is a public repository for suggesting, creating, and evolving stories about
 
 This repo is used to gather ideas and move forward stories that quite often will end up on the OAI blog, but can also be published or syndicated to other locations, helping extend the reach of the OAI, and educate more of the community about what the specification can do.
 
+- [OpenAPI Blog Guidelines](https://docs.google.com/document/d/1CjpmRzAG6IujSv_tsNwUw6vy-29kjbSRV65u31sAIRY/edit#)
+
 ## Current Blog Posts in the Queue
 These are some of the blog posts that have been suggested and are in need of champions to help move each story forward.
 
