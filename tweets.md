@@ -3,7 +3,7 @@ This is a list of evergreen tweets that can just be copied and pasted to help ma
 
 ## General
 
-The @OpenAPISpec weekly public office hours is coming up Thursday 8:00 AM PDT / 5:00 PM CET. Come learn about how the OpenAPI Initiative (OAI) works, and learn more about how you can get involved with technical, marketing, community, and other activities. https://calendar.google.com/event?action=TEMPLATE&tmeid=N2tlZjIwczgwcmQ0bm0zc3E2Mzg3bHE0ZmtfMjAyMTA2MTdUMTUwMDAwWiBjXzBtZzBnZmxqbnYxNTYxbGcxc3BwM21vcXZjQGc&tmsrc=c_0mg0gfljnv1561lg1spp3moqvc%40group.calendar.google.com&scp=ALL&text=OAI Office Hours&details=This is a weekly meeting to provide open office hours for the OAI community. https://meet.google.com/zbw-ukmi-kbn&location=Meet URL: https://meet.google.com/zbw-ukmi-kbn
+The @OpenAPISpec weekly public office hours is coming up Thursday 8:00 AM PDT / 5:00 PM CET. Come learn about how the OpenAPI Initiative (OAI) works, and learn more about how you can get involved with technical, marketing, community, and other activities. https://calendar.google.com/event?action=TEMPLATE&tmeid=N2tlZjIwczgwcmQ0bm0zc3E2Mzg3bHE0ZmtfMjAyMTA2MTdUMTUwMDAwWiBjXzBtZzBnZmxqbnYxNTYxbGcxc3BwM21vcXZjQGc&tmsrc=c_0mg0gfljnv1561lg1spp3moqvc%40group.calendar.google.com&scp=ALL&text=OAI%20Office%20Hours&details=This%20is%20a%20weekly%20meeting%20to%20provide%20open%20office%20hours%20for%20the%20OAI%20community.%20https://meet.google.com/zbw-ukmi-kbn&location=Meet%20URL:%20https://meet.google.com/zbw-ukmi-kbn
 
 The @OpenAPISpec Technical Developer Community (TDC) weekly meeting is coming up Thursday 9:00 AM PDT / 6:00 PM CET, with the current agenda pinned to the top of the Github issues for the API specification. https://github.com/OAI/OpenAPI-Specification/issues #openapi 
 
