@@ -8,6 +8,7 @@ This repo is used to gather ideas and move forward stories that quite often will
 ## Current Blog Posts in the Queue
 These are some of the blog posts that have been suggested and are in need of champions to help move each story forward.
 
+* **JSON Schema Bundling** ([Issue](https://github.com/OAI/Stories/issues/11)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Draft)
 * **API Copyright with OAS** ([Issue](https://github.com/OAI/Stories/issues/2)) ([Project](https://github.com/OAI/Stories/projects/1)) (Workflow Status: [Stuctural](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astructural) / No)
 * **Xero OpenAPI Journey** ([Issue](https://github.com/OAI/Stories/issues/3)) ([Project](https://github.com/OAI/Stories/projects/2)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Draft)
 * **Github OpenAPI Journey** (Issue) ([Project](https://github.com/OAI/Stories/projects/3)) (Workflow Status: [Stories](https://github.com/OAI/Stories/issues?q=is%3Aissue+is%3Aopen+label%3Astories) / Draft)
