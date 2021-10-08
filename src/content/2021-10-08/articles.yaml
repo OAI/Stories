@@ -1,0 +1,37 @@
+content:
+  - url: https://blog.logrocket.com/documenting-go-web-apis-with-swag/
+    title: Documenting Go web APIs with Swag
+    date: 2021-10-04
+    summary: Overview of creating OpenAPI specification through annotations in Go
+    language: eng
+    programming_language: Go
+    keywords:
+      - Go
+      - Code-first
+  - url: https://www.ordnancesurvey.co.uk/newsroom/blog/the-ogc-standards-that-power-the-os-data-hub
+    title: The OGC standards that power the OS Data Hub
+    date: 2021-10-04
+    summary: Overview of the role of OpenAPI and other standards in Open Geospatial Consortium standards
+    language: eng
+    keywords:
+      - open
+      - standards
+  - url: https://medium.com/geekculture/rethinking-enterprise-grade-apis-8af3d5f2bfbd
+    title: Rethinking Enterprise-Grade APIs
+    date: 2021-10-03
+    summary: Commentary on how large corporations can approach building APIs. Many references to the value of OpenAPI to establish contracts between services.
+    language: eng
+    keywords:
+      - enterprise
+      - contract
+      - containers
+      - Docker
+      - Kubernetes
+  - url: https://blog.gft.com/br/2021/10/04/restful-api/
+    title: Restful API
+    date: 2021-10-04
+    summary: Introduction to REST with references to the value of OpenAPI
+    notes: Brazil (GFT is a service provider) is an emerging market for open banking so important to highlight content from markets where APIs are relatively nascent.
+    language: por
+    keywords:
+      - REST
