@@ -1,0 +1,48 @@
+content:
+  - url: https://www.apimatic.io/blog/2021/09/migrating-to-and-from-openapi-3-1/
+    title: OpenAPI 3.1 – What’s New, and How to Migrate to/from Other API Specs?
+    date: 2021-09-21
+    summary: Breakdown of differences between OpenAPI 3.0 and 3.1 and migration path
+    language: eng
+    keywords:
+      - migration
+      - version
+      - design
+      - transform
+  - url: https://slack.engineering/how-we-design-our-apis-at-slack/
+    title: How We Design Our APIs at Slack
+    date: 2021-08-11
+    summary: Overview of API design process at Slack. Interesting perspective that an OpenAPI specification document is a "prototype" for teams "so inclined" rather than being a mandatory design artefact.
+    language: eng
+    keywords:
+      - design
+      - review
+      - testing
+  - url: https://techcommunity.microsoft.com/t5/apps-on-azure/azure-functions-auth-via-openapi-in-6-ways/ba-p/2820791
+    title: Azure Functions Auth via OpenAPI in 6 Ways
+    date: 2021-10-08
+    summary: Describes the security extensions to OpenAPI provided by Azure for use with HTTP triggers
+    notes: There are bunch of different approach described here. Some of them ***would not*** be a good security implementation e.g. an API Key in a query string. A nice intellectual exercise, however.
+    language: eng
+    keywords:
+      - security
+      - OpenID Connect
+      - JSON Web Token
+  - url: https://idratherbewriting.com/learnapidoc/
+    title: "Documenting APIs: A guide for technical writers and engineers"
+    date: 2021-10-12
+    summary: A course to teach technical writers and engineers how to document APIs.
+    notes: This has been around a good while but appears to have had a recent update. It provides a pretty comprehensive introduction if you're a technical writer (engineers would probably know more about OpenAPI that is included in the course, but who knows?)
+    language: eng
+    keywords:
+      - documenting
+      - technical writer
+  - url: https://superface.ai/blog/openapi-cures-symptoms
+    title: OpenAPI cures the symptoms, not the disease
+    date: 2021-10-07
+    summary: Zdenek's opinion on how OpenAPI (and other API specification languages and associated tooling) only treat the symptoms of poorly documented APIs.
+    notes: This is written in an oped style and clearly serves to pique the readers interest in Superface. Still opinions are very useful as they pique our curiosity.
+    language: eng
+    keywords:
+      - design
+      - documentation
